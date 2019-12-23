@@ -4,7 +4,7 @@ title: Tóm tắt
 permalink: /about/
 ---
 
-Sờ ương = sương là mình thanh niên 9x, đã già nhưng tuổi nghề còn trẻ. Đang tập tành "ìm-ru mai sét" (improve my set) lên.
+Sờ ương = sương là mình thanh niên 9x, đã già nhưng tuổi nghề còn trẻ (vào nghề từ intern là tháng 3/2017). Đang tập tành "ìm-ru mai sét" (improve my set) lên.
 Và viết bờ-lốc (blog) dạo quanh lòng vòng này là quá trình bước khởi đầu cho quá trình "đì-ve-lớp mai-seo" (develop myself) đó.
 
 ### More Information
