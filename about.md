@@ -10,7 +10,7 @@ Và viết bờ-lốc (blog) dạo quanh lòng vòng này là quá trình bướ
 ### More Information
 
 Là nơi để thể hiện sự "mai phiêu-ling đờ bít" (my feeling the beat) của bản thân. Hi vọng sẽ giúp ích cho bản thân mình trước, và sau này ít nhiều có thể ảnh hưởng tới ai đó, kaka/
-(A place to include any other types of information that you'd like to include about yourself.)
+(A place to include any other types of information that I'd like to include about myself.)
 
 ### Contact me
 
