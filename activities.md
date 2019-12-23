@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: page
 title: Hoạt động team
+permalink: /activities/
 ---
 
 # Các CLB mình đang join:
