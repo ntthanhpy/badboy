@@ -5,6 +5,7 @@ permalink: /activities/
 ---
 
 # Các CLB mình đang join:
+* **Wolf team**
 * Football Club I&A
 * Badminton GCS
 * Tennis GCS
