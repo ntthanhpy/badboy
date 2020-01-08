@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Walking in the moon, my feeling is beauty
+categories: story diary
 ---
 
 Today, I walk with her, I'm so happy.
