@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learn JP to more everyday (1)
-categories: learning
+categories: learning activity
 ---
 
 Hôm nay học về chữ Kanji "Tù nhân" từ my uncle, kaka
